@@ -1,6 +1,6 @@
 # Datos del estudiante
 
-- **Apellido y nombre:**Rivas Rodrigo
+- **Apellido y nombre:** Rivas Rodrigo
 - **Tecnicatura:** (Administración de Empresas)
 - **Cohorte / turno:** 2026/INT
 - **Fecha:** 07/11/2026
